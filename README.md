@@ -1,6 +1,7 @@
 # Implementation-of-filter
 ## Name : Sanjay V
 ## Reg No : 212223230188
+## Date : 3/11/25
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
